@@ -10,6 +10,7 @@ Have a check to my [space](https://bloodbee.space) for further informations!
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=048B9A)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=048B9A)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google&logoColor=white&color=048B9A)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=048B9A)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=048B9A)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=048B9A)
 
